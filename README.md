@@ -88,3 +88,46 @@ This project strengthened my understanding of how Active Directory supports ente
 - Automate Active Directory tasks using PowerShell.
 - Add a domain-joined Windows client for end-user testing.
 - Expand security monitoring and auditing capabilities.
+
+- ## Lab Screenshots
+
+### 1. Virtual Machine Creation
+![Virtual Machine Creation](01-VM%20Creation.png)
+
+
+### 2. Windows Server Manager
+![Windows Server Manager](02-Server%20Manager.png)
+
+### 3. Active Directory Domain
+![Active Directory Domain](03-Active%20Directory%20Domain.png)
+
+### 4. Organizational Units
+![Organizational Units](04-Organizational%20Units.png)
+
+### 5. User Accounts
+![User Accounts](05-User%20Accounts.png)
+
+### 6. Security Groups
+![Security Groups](06-Security%20Groups.png)
+
+### 7. Group Memberships
+![Group Memberships](07-Group%20Memberships.png)
+
+### 8. Account Lockout Policy
+![Account Lockout Policy](08-Account%20Lockout%20Policy.png)
+
+### 9. Disabled Employee Account
+![Disabled Account](09-Disabled%20Account.png)
+
+### 10. Finance NTFS Permissions
+![Finance NTFS Permissions](10-Finance%20NTFS.png)
+
+### 11. Finance Network Share Permissions
+![Finance Sharing](11-Finance%20Sharing.png)
+
+### 12. Finance Network Drive
+![Finance Drive](12-Finance%20Drive.png)
+
+### 13. Finance Shared Folder Access
+![Finance Access](13-Finance%20Access.png)
+

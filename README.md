@@ -60,6 +60,10 @@ Created a Finance network share, configured NTFS and share permissions, and test
 | #008 | Department transfer |
 | #009 | Finance shared folder access troubleshooting |
 
+
+📋 [View All Nine Help Desk Tickets](helpdesk-tickets/README.md)
+
+
 These scenarios were performed in a simulated lab environment.
 
 ## Skills Demonstrated
